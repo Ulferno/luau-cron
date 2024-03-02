@@ -1,0 +1,6 @@
+{
+  "name": "luau-cron",
+  "tree": {
+    "$path": "src"
+  }
+}

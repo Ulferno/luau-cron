@@ -1,0 +1,9 @@
+[package]
+name = "ulferno/luau-cron"
+version = "0.0.1"
+license = "lgpl-3.0"
+registry = "https://github.com/upliftgames/wally-index"
+repo = "https://github.com/Ulferno/luau-cron"
+realm = "shared"
+exclude = ["**"]
+include = ["src", "src/**", "wally.toml", "wally.lock", "default.project.json"]

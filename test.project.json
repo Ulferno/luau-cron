@@ -1,0 +1,15 @@
+{
+  "name": "luau-cron-test",
+  "tree": {
+    "$className": "DataModel",
+    "ServerScriptService": {
+      "$className": "ServerScriptService",
+      "Cron": {
+        "$path": "src"
+      },
+      "Test": {
+        "$path": "example"
+      }
+    }
+  }
+}
