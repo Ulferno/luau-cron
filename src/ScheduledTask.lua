@@ -1,8 +1,8 @@
 local HttpService = game:GetService("HttpService")
 
 type TaskOptions = {
-	scheduled: Boolean?,
-	autorecover: Boolean?,
+	scheduled: boolean?,
+	autorecover: boolean?,
 }
 
 local MatchDelay = 1
