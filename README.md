@@ -14,7 +14,7 @@ Simply require access the module and use the `schedule`, `validate` and `getTask
 ```lua
 local Cron = require(path.to.cron)
 
-Cron.schedule("* */5 * * * *", function()
+Cron.schedule("*/5 * * * *", function()
 	print("every five minutes!")
 end)
 ```
